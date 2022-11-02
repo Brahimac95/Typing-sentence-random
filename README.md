@@ -13,4 +13,4 @@ sinon elle sera surligner en rouge.
 
 > Après avoir finir d'écrire, vous passera à la phrase ou au mot suivant jusqu'à la fin du temp qui vous sera imparti.
 
-##Lien du jeu: 
+## Lien du jeu: https://brahimac95.github.io/Typing-sentence-random/
