@@ -17,7 +17,7 @@ async function getNewSentence(){
   
       sentence.textContent = "";
       //On tranforme content en tableau dont chaque chaque caractère est mis dans un span pour pouvoir le vérifier
-      content.split("", 4).forEach(character => {//On parcours le tableau avec la boucle ForEach
+      content.split("").forEach(character => {//On parcours le tableau avec la boucle ForEach
         const spanCharacter = document.createElement("span");
         spanCharacter.textContent = character;
         sentence.appendChild(spanCharacter)
